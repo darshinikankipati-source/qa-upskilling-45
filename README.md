@@ -22,6 +22,7 @@ Automation learning journey.
 - Installed Git.
 - Created GitHub account.
 - Learned basic Git commands.
+- Learning Git and GitHub.
 - Created my first Hello World program.
 
 ## Author
